@@ -1,0 +1,17 @@
+{
+  "name": "lovecode_nodejs",
+  "version": "1.0.0",
+  "description": "一个简单的Node.js示例代码",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {}
+}
